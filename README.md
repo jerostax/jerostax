@@ -2,7 +2,7 @@
 
 ### Full-Stack JavaScript Developer | React · Next.js · TypeScript · Node.js
 
-I'm a full-stack developer based near Paris, France, with **5+ years of professional experience** building web applications, business tools, REST APIs, and third-party integrations.
+I'm a full-stack developer based near Paris, France, with **6+ years of professional experience** building web applications, business tools, REST APIs, and third-party integrations.
 
 I previously worked on projects across education, insurance, and business services at **Atos / Eviden**.
 
@@ -16,12 +16,12 @@ I previously worked on projects across education, insurance, and business servic
 
 ### What I'm working on
 
-- **AI-powered website generation SaaS** — Building an MVP to help small businesses create personalized websites using reusable templates and components.
+- **AI-powered website generation SaaS** — Building an MVP to help small businesses create personalized websites using reusable templates and components with AI generated content.
 - **Modern web applications** — Working with Next.js, React, PostgreSQL, and Prisma on real-world applications.
 
 ### Professional experience
 
-Most of my professional work lives in private repositories due to client confidentiality.
+**Most of my professional work lives in private repositories due to client confidentiality.**
 
 My experience includes admissions management platforms, internal business tools, API integrations, and web application development.
 
