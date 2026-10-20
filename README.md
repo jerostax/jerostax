@@ -32,4 +32,3 @@ I'm happy to discuss the technical challenges, architecture, and my contribution
 I'm open to **Full-Stack JavaScript, React, Next.js, and Node.js opportunities**, especially roles involving modern web products and AI.
 
 - [LinkedIn](https://www.linkedin.com/in/jeremy-geneste/)
-- [GitHub](https://github.com/jerostax)
