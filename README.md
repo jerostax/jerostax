@@ -43,9 +43,26 @@ Key areas I'm exploring:
 - Full-stack SaaS development
 - Scalable and maintainable application design
 
-**Modern Web Applications**
+**Delange Immobilier — Real Estate Web Application**
 
-Continuing to build real-world applications using React, Next.js, PostgreSQL, and Prisma, with a focus on clean architecture, usability, and performance.
+*Freelance Full-Stack Developer · October 2026 – Present*
+
+Taking responsibility for the maintenance, security, infrastructure, and evolution of an existing real estate application, working directly with the agency's management.
+
+- **Technical ownership:** audited the existing codebase, documented and prioritized approximately 25 issues, and introduced a structured pull-request and preview workflow.
+- **Infrastructure:** migrated GitHub, Vercel, PostgreSQL/Neon, DNS, and related services to client-owned accounts without downtime.
+- **Security:** strengthened API access controls, administration authentication, and third-party integrations, supported by regression tests.
+- **Technical SEO:** improved listing-specific metadata, canonical URLs, hreflang, structured data, and server-rendered property listings.
+- **Performance:** reduced homepage transfer weight from 21 MB to 3.7 MB and improved measured mobile LCP from 88.7 s to 4.0 s (PageSpeed Insights).
+- **User experience:** refined image carousel transitions, Mapbox layouts, and administration forms.
+
+**Stack:** Next.js 15 · React 19 · TypeScript · Tailwind CSS 4 · Prisma · PostgreSQL · Neon · Vercel · Apimo API · Mapbox GL
+
+*The codebase is private; the highlights above describe non-confidential, verified contributions.*
+
+### 🤖 AI-Assisted Development
+
+I maintain a reusable private Claude Code configuration with development rules, Git workflow safeguards, and custom Python hooks. AI helps with implementation and analysis; I remain responsible for technical decisions, review, testing, and validation.
 
 ### 🧠 What Drives Me
 
