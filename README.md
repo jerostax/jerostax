@@ -62,7 +62,6 @@ I'm open to **Full-Stack JavaScript / TypeScript opportunities in Paris and Île
 Whether it's building a product from scratch, improving an existing platform, or tackling complex integrations, I'm always interested in meaningful technical challenges.
 
 💼 [LinkedIn](https://www.linkedin.com/in/jeremy-geneste/)  
-💻 [GitHub](https://github.com/jerostax)
 
 ---
 
