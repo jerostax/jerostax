@@ -1,34 +1,69 @@
-# Hi, I'm Jérémy 👋
+# Hey, I'm Jérémy 👋
 
-### Full-Stack JavaScript Developer | React · Next.js · TypeScript · Node.js
+**Full-Stack JavaScript & TypeScript Developer**  
+React · Next.js · Node.js · PostgreSQL
 
-I'm a full-stack developer based near Paris, France, with **6+ years of professional experience** building web applications, business tools, REST APIs, and third-party integrations.
+I'm a full-stack developer based near Paris, France, with **7 years of professional experience** building web applications, internal platforms, APIs, and business integrations.
 
-I previously worked on projects across education, insurance, and business services at **Atos / Eviden**.
+I enjoy turning complex requirements into reliable, maintainable software — from designing frontend experiences to building backend services and connecting external systems.
 
-### What I work with
+After working on enterprise projects at **Atos / Eviden**, I'm now exploring modern web architectures, SaaS development, and AI-assisted workflows.
 
-- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
-- **Backend:** Node.js, Express, REST APIs
-- **Databases:** PostgreSQL, MongoDB, Prisma
-- **Integrations:** Salesforce, Jira, third-party APIs
-- **AI-assisted development:** Claude Code, ChatGPT, AI agents
+### 🛠️ Tech Stack
 
-### What I'm working on
+| Area | Technologies |
+|---|---|
+| **Frontend** | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
+| **Backend** | Node.js, Express, REST APIs |
+| **Databases & ORM** | PostgreSQL, MongoDB, Prisma |
+| **Integrations** | Salesforce, Jira, Third-party APIs |
+| **Tools & Workflow** | Git, GitHub, Claude Code, ChatGPT, AI Agents |
 
-- **AI-powered website generation SaaS** — Building an MVP to help small businesses create personalized websites using reusable templates and components with AI generated content.
-- **Modern web applications** — Working with Next.js, React, PostgreSQL, and Prisma on real-world applications.
+### 💼 Professional Background
 
-### Professional experience
+Over the past 7 years, I've contributed to projects across **education, insurance, and business services**, including:
 
-**Most of my professional work lives in private repositories due to client confidentiality.**
+- **Business applications** — Developing and maintaining web platforms supporting real operational workflows.
+- **API development & integrations** — Connecting applications with Salesforce, Jira, and external services.
+- **Internal tools** — Building solutions that simplify processes and support business teams.
+- **Full-stack development** — Working across frontend and backend systems, from implementation to maintenance and evolution.
 
-My experience includes admissions management platforms, internal business tools, API integrations, and web application development.
+> 🔒 Most of my professional work is hosted in private repositories due to client confidentiality. I'm happy to discuss the architecture, technical challenges, and my contributions during interviews.
 
-I'm happy to discuss the technical challenges, architecture, and my contributions during interviews.
+### 🚀 Currently Building
 
-### Let's connect
+**AI-Powered Website Generation SaaS**
 
-I'm open to **Full-Stack JavaScript, React, Next.js, and Node.js opportunities**, especially roles involving modern web products and AI.
+Developing an MVP designed to help small businesses create personalized websites using reusable templates, modern web technologies, and AI-generated content.
 
-- [LinkedIn](https://www.linkedin.com/in/jeremy-geneste/)
+Key areas I'm exploring:
+
+- Reusable component architectures
+- AI-assisted content generation
+- Full-stack SaaS development
+- Scalable and maintainable application design
+
+**Modern Web Applications**
+
+Continuing to build real-world applications using React, Next.js, PostgreSQL, and Prisma, with a focus on clean architecture, usability, and performance.
+
+### 🧠 What Drives Me
+
+I care about more than just making things work.
+
+I value **clean and maintainable code**, thoughtful technical decisions, and software that solves actual problems.
+
+I'm particularly interested in how modern development tools and AI-assisted workflows can help developers build better products — without compromising code quality or understanding.
+
+### 🤝 Let's Connect
+
+I'm open to **Full-Stack JavaScript / TypeScript opportunities in Paris and Île-de-France**, particularly involving React, Next.js, and Node.js.
+
+Whether it's building a product from scratch, improving an existing platform, or tackling complex integrations, I'm always interested in meaningful technical challenges.
+
+💼 [LinkedIn](https://www.linkedin.com/in/jeremy-geneste/)  
+💻 [GitHub](https://github.com/jerostax)
+
+---
+
+*Building useful software. Always learning, always improving.*
