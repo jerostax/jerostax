@@ -60,9 +60,23 @@ Taking responsibility for the maintenance, security, infrastructure, and evoluti
 
 *The codebase is private; the highlights above describe non-confidential, verified contributions.*
 
-### 🤖 AI-Assisted Development
+### 🤖 AI-Assisted Development & Custom Tooling
 
-I maintain a reusable private Claude Code configuration with development rules, Git workflow safeguards, and custom Python hooks. AI helps with implementation and analysis; I remain responsible for technical decisions, review, testing, and validation.
+I design and maintain my own **Claude Code development environment**, combining specialized AI agents, custom skills, Python hooks, and structured workflows.
+
+Drawing on my **7 years of Full-Stack development experience**, I use AI to support code analysis, security reviews, technical SEO, and quality assurance — while keeping architectural decisions, code validation, and sensitive operations under human control.
+
+**What I've built:**
+
+- **Security Auditor Agent** — Reviews application codebases for authentication and authorization issues, exposed secrets, insecure API routes, injection risks, and other potential vulnerabilities. Produces prioritized, actionable findings.
+- **SEO Auditor Agent** — Analyzes source code, production HTML, metadata, structured data, internationalization, and PageSpeed Insights results to identify technical SEO improvements.
+- **`/pr-ready` Custom Skill** — Prepares pull requests through type checking, testing, linting, translation consistency checks, and code review, with human approval before commits or publishing.
+- **Python Safety Hooks** — Enforces Git branch protection during Claude Code operations and checks translation key consistency across languages.
+- **Reusable Development Workflows** — Maintains version-controlled instructions, project-specific context, permissions, and integrations to support consistent development practices.
+
+**Tooling:** Claude Code · AI Agents · Custom Skills · Python · Git · GitHub · MCP · TypeScript · Next.js
+
+*The configuration is maintained in a private repository. AI-assisted findings are reviewed and validated before implementation.*
 
 ### 🧠 What Drives Me
 
