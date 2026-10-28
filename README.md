@@ -1,11 +1,12 @@
-# Hey, I'm Jérémy 👋
+# Hey, I'm Jérémy Geneste 👋
 
 **Full-Stack JavaScript & TypeScript Developer**  
 React · Next.js · Node.js · PostgreSQL
 
-🌐 **Portfolio:** [jeremy-geneste.com](https://jeremy-geneste.com/)
+🌐 **Portfolio:** [jeremy-geneste.com](https://jeremy-geneste.com/)  
+📂 **Public code:** [jerostax/jeremy-geneste](https://github.com/jerostax/jeremy-geneste), the source of my personal site (Next.js 16, React 19, TypeScript, tests and CI)
 
-I'm a full-stack developer based near Paris, France, with **7 years of professional experience** building web applications, internal platforms, APIs, and business integrations.
+I'm a full-stack developer based near Paris, France, **building web applications professionally since 2019**: internal platforms, APIs, and business integrations.
 
 I enjoy turning complex requirements into reliable, maintainable software — from designing frontend experiences to building backend services and connecting external systems.
 
@@ -23,7 +24,7 @@ After working on enterprise projects at **Atos / Eviden**, I'm now exploring mod
 
 ### 💼 Professional Background
 
-Over the past 7 years, I've contributed to projects across **education, insurance, and business services**, including:
+Since 2019, I've contributed to projects across **education, insurance, and business services**, including:
 
 - **Business applications** — Developing and maintaining web platforms supporting real operational workflows.
 - **API development & integrations** — Connecting applications with Salesforce, Jira, and external services.
@@ -66,7 +67,7 @@ Taking responsibility for the maintenance, security, infrastructure, and evoluti
 
 I design and maintain my own **Claude Code development environment**, combining specialized AI agents, custom skills, Python hooks, and structured workflows.
 
-Drawing on my **7 years of Full-Stack development experience**, I use AI to support code analysis, security reviews, technical SEO, and quality assurance — while keeping architectural decisions, code validation, and sensitive operations under human control.
+Drawing on my **full-stack experience since 2019**, I use AI to support code analysis, security reviews, technical SEO, and quality assurance — while keeping architectural decisions, code validation, and sensitive operations under human control.
 
 **What I've built:**
 
