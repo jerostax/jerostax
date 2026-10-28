@@ -3,6 +3,8 @@
 **Full-Stack JavaScript & TypeScript Developer**  
 React · Next.js · Node.js · PostgreSQL
 
+🌐 **Portfolio:** [jeremy-geneste.com](https://jeremy-geneste.com/)
+
 I'm a full-stack developer based near Paris, France, with **7 years of professional experience** building web applications, internal platforms, APIs, and business integrations.
 
 I enjoy turning complex requirements into reliable, maintainable software — from designing frontend experiences to building backend services and connecting external systems.
@@ -92,7 +94,7 @@ I'm open to **Full-Stack JavaScript / TypeScript opportunities in Paris and Île
 
 Whether it's building a product from scratch, improving an existing platform, or tackling complex integrations, I'm always interested in meaningful technical challenges.
 
-💼 [LinkedIn](https://www.linkedin.com/in/jeremy-geneste/)  
+🌐 [Portfolio](https://jeremy-geneste.com/) · 💼 [LinkedIn](https://www.linkedin.com/in/jeremy-geneste/)  
 
 ---
 
